@@ -1,0 +1,16 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    sumab = int()
+    diffab = int()
+    prodab = int()
+# Check constraints
+if 0<a<10**10 and 0<b<10**10:
+    sumab = a+b
+    print(sumab) #print(a+b)
+    diffab = a-b
+    print(diffab)  #print(a-b)
+    prodab = a*b
+    print(prodab)  #print(a*b)
+else:
+    print('Wrong Input!')
