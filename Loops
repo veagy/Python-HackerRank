@@ -1,0 +1,8 @@
+if __name__ == '__main__':
+    n = int(input())
+    #Check range
+    if 0<n<21:
+        for i in range(0,n):
+            print(i**2)
+    else:
+        print('Wrong input!')
