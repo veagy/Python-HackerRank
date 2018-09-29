@@ -1,0 +1,20 @@
+#!/bin/python3
+
+N = int(input())
+NW = str('Not Weird')
+W = str('Weird')
+ans = str('')
+
+#If-Else
+if 0<N <101:
+    if N%2 == 1:
+        ans = W
+    else:
+        if 1<N<6 or N > 20:
+            ans = NW
+        if 5< N < 21:
+            ans = W
+else:
+    print('Wrong Range')
+        
+print(ans)
