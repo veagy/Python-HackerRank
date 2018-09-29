@@ -1,0 +1,9 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    intdiv = int()
+    flodiv = float()
+    intdiv = a//b
+    print(intdiv) #print(a//b)
+    flodiv = a/b
+    print(flodiv) #print(a/b)
