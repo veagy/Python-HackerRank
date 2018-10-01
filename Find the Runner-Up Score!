@@ -10,7 +10,13 @@ if __name__ == '__main__':
     n = int(input())
     arr = list(map(int, input().split()))
     if 2<= n <= 10 and -100 <= min(arr) and max(arr) <= 100:
-        largest = max(arr)
-        while max(arr) == largest:
-            arr.remove(largest)
-        print(max(arr))
+        print(sorted(set(arr), reverse=True)[1])
+        
+        
+#largest = max(arr)
+#while max(arr) == largest:
+#    arr.remove(largest)
+#print(max(arr))
+####equal to
+#runnerUp = sorted(set(arr), reverse = True)[1]
+#print(runnerUp)
