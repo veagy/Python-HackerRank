@@ -9,3 +9,11 @@
 #Output Format
 #Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.
 
+if __name__ == '__main__':
+    n = int(raw_input())
+    student_marks = {}
+    for _ in range(n):
+        line = raw_input().split(" ")
+        student_marks[line[0]] = map(float, line[1:])
+    partName = raw_input()
+    print("{:.2f}".format( sum(student_marks[partName])/len(student_marks[partName])))
