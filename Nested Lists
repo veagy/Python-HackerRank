@@ -15,9 +15,15 @@ if __name__ == '__main__':
     n = int(input())
     nestNameScore = [[input(),float(input())] for _ in range(n)]
     if 2<=len(nestNameScore)<=5:
-        sortedScore = sorted(set(score for name,score in nestNameScore))
-        lowest = sortedScore[0]
-        while min(sortedScore) == lowest:
-            sortedScore.remove(lowest)
-        secondLowest = min(sortedScore)
+        secondLowest = sorted(set(score for name,score in nestNameScore))[1]
         print('\n'.join(sorted((name for name,score in nestNameScore if score == secondLowest))))
+        
+        
+        
+#sortedScore = sorted(set(score for name,score in nestNameScore))
+#lowest = sortedScore[0]
+#while min(sortedScore) == lowest:
+#    sortedScore.remove(lowest)
+#secondLowest = min(sortedScore)
+#####equal to
+#secondLowest = sorted(set(score for name,score in nestNameScore))[1]
