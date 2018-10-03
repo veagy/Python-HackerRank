@@ -14,3 +14,19 @@
 #The elements added to the list must be integers.
 #Output Format
 #For each command of type print, print the list on a new line.
+
+
+if __name__ == '__main__':
+    N = int(input())
+    myList = []
+    for _ in range(N):
+        cmd = input().split()
+        if len(cmd) == 1:
+            if cmd[0] == 'print':
+                print(myList)
+            else:
+                eval("myList.{0}()".format(cmd[0]))  
+        elif len(cmd) == 3:
+            eval("myList.{0}{1}".format(cmd[0],tuple(map(int,cmd[1:]))))
+        elif len(cmd) == 2:
+            eval("myList.{0}({1})".format(cmd[0], int(cmd[1])))           
