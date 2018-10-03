@@ -30,3 +30,18 @@ if __name__ == '__main__':
             eval("myList.{0}{1}".format(cmd[0],tuple(map(int,cmd[1:]))))
         elif len(cmd) == 2:
             eval("myList.{0}({1})".format(cmd[0], int(cmd[1])))           
+
+OR
+
+
+if __name__ == '__main__':
+    N = int(input())
+    list = []
+    for _ in range(N):
+        order = input().split()
+        com = order[0]
+        if com == 'print':
+            print(list)
+        else:
+            com += '('+','.join(order[1:])+')'
+            eval('list.'+com)
