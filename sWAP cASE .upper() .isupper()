@@ -6,7 +6,17 @@
 #Output Format
 #Print the modified string S.
 
-
+def swap_case(s):
+    if 0<= len(s) <= 1000:
+        b = str('')
+        for a in s:
+            if a.isupper():
+                b += a.lower()
+            else:
+                b += a.upper()
+        return b
+ #   return "".join([x.upper() if x.islower() else x.lower() for x in s])
+ #   return s.swapcase()
 
 
 if __name__ == '__main__':
