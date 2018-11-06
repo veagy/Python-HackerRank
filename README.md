@@ -25,7 +25,7 @@
 ||[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Mutations)||
 ||[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Find%20a%20string)|sum(   for   if   )|
 ||[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/String%20Validators)| any() str.|
-||[]()|[Python 3]()||
+||[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
