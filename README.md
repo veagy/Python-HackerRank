@@ -25,9 +25,9 @@
 ||[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Mutations)||
 ||[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Find%20a%20string)|sum(   for   if   )|
 ||[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/String%20Validators)| any() str.|
-||[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Python 3]()||
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+||[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Text%20Alignment)||
+||[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Text%20Wrap)|textwrap.wrap or fill|
+||[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Designer%20Door%20Mat)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
