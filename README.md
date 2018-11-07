@@ -28,10 +28,16 @@
 ||[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Text%20Alignment)||
 ||[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Text%20Wrap)|textwrap.wrap or fill|
 ||[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Designer%20Door%20Mat)||
+||[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/String%20Formatting)||
+||[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Capitalize!)|' '.join .split(' ')|
+||[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/The%20Minion%20Game)|elif in'AEIOU' print( , )|
+||[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Merge%20the%20Tools!)|zip iter sort( , key= )|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
+||[]()|[Python 3]()||
+
 
 
