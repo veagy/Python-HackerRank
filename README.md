@@ -33,7 +33,7 @@
 ||[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/The%20Minion%20Game)|elif in'AEIOU' print( , )|
 ||[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Merge%20the%20Tools!)|zip iter sort( , key= )|
 |Sets|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Introduction%20to%20Sets)||
-||[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[Python 3]()||
+||[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/No%20Idea!)|sum(( (_ in A) for _ in B)) means count|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
