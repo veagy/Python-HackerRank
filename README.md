@@ -32,7 +32,7 @@
 ||[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Capitalize!)|' '.join .split(' ')|
 ||[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/The%20Minion%20Game)|elif in'AEIOU' print( , )|
 ||[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Merge%20the%20Tools!)|zip iter sort( , key= )|
-||[]()|[Python 3]()||
+|Sets|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
