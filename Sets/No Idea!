@@ -1,0 +1,7 @@
+[ANum, BNum] = input().split()
+myArray = map(int,input().split())
+A = set(map(int,input().split()))
+B = set(map(int,input().split()))
+print(sum(( _ in A) - ( _ in B) for _ in myArray))
+#sum of list and sum of set are both correct!
+#print(sum([( _ in A) - ( _ in B) for _ in myArray]))
