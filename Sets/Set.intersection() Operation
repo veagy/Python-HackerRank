@@ -1,1 +1,3 @@
-
+a, engSubscriber = (input(), set(input().split()))
+b, frnSubscriber = (input(), set(input().split()))
+print(len(engSubscriber.intersection(frnSubscriber)))
