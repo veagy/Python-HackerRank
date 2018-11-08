@@ -39,7 +39,7 @@
 ||[Set.discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.discard(),%20.remove()%20&%20.pop())|eval|
 ||[Set.union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set%20.union()%20Operation)||
 ||[Set.intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.intersection()%20Operation)||
-||[]()|[Python 3]()||
+||[Set.difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.difference()%20Operation)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
