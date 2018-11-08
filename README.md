@@ -17,7 +17,7 @@
 ||[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!)||
 ||[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Nested%20Lists)|set, print('\n'.join(sort(    if  )))|
 ||[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Finding%20the%20percentage)|({:.2f} {marks})|
-||[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[Python 3]()| eval('list.{0}({1})'.format())|
+||[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Lists)| eval('list.{0}({1})'.format())|
 ||[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Tuples)| hash|
 |**Strings**|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/sWAP%20cASE)|.upper() .isupper()|
 ||[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/String%20Split%20and%20Join)||
