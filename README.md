@@ -40,7 +40,7 @@
 ||[Set.union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set%20.union()%20Operation)||
 ||[Set.intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.intersection()%20Operation)||
 ||[Set.difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.difference()%20Operation)||
-||[]()|[Python 3]()||
+||[Set.symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.symmetric_difference()%20Operation)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 
