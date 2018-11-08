@@ -8,3 +8,13 @@ for _ in range(N):
     else:
         eval('s.' + order[0]+'('+order[1]+')')
 print(sum(s))
+
+OR
+
+n = int(input())
+s = set(map(int, input().split()))
+N = int(input())
+for _ in range(N):
+    cmd = (input() + " ").split(" ")
+    eval('s.' + cmd[0] + '(' + cmd[1] + ')')
+print(sum(s))
