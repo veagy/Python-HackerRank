@@ -1,0 +1,5 @@
+N = int(input())
+mySet = set(input() for _ in range(N))
+print(len(mySet))
+#one line code
+#print(len(set(input() for _ in range(int(input())))))
