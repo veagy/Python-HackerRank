@@ -1,1 +1,3 @@
-
+a, engSubscriber = (int(input()), set(input().split()))
+b, frnSubscriber = (int(input()), set(input().split()))
+print(len(engSubscriber.difference(frnSubscriber)))
