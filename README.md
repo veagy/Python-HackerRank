@@ -36,7 +36,7 @@
 ||[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/No%20Idea!)|sum(( (_ in A) for _ in B)) means count|
 ||[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Symmetric%20Difference) |print(\*sorted( ,key=int),sep='\n')|
 ||[Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.add())||
-||[]()|[Python 3]()||
+||[Set.discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
