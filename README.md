@@ -12,7 +12,7 @@
 ||[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Introduction/Division)||
 ||[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Introduction/Loops)||
 ||[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Introduction/Write%20a%20function)|define function(a) return|
-||[Print Function](https://www.hackerrank.com/challenges/python-print/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Introduction/Print%20Function)|print( , end='')|
+||[Print Function](https://www.hackerrank.com/challenges/python-print/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Introduction/Print%20Function)|print( , end='') or sep='\n'|
 |**Basic Data Types**|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/List%20Comprehensions)| print(  for   )|
 ||[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!)||
 ||[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Basic%20Data%20Types/Nested%20Lists)|set, print('\n'.join(sort(    if  )))|
@@ -34,7 +34,7 @@
 ||[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Merge%20the%20Tools!)|zip iter sort( , key= )|
 |**Sets**|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Introduction%20to%20Sets)||
 ||[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/No%20Idea!)|sum(( (_ in A) for _ in B)) means count|
-||[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Symmetric%20Difference) |print(\*sorted( ,key=int),sep='\n') or '\n'.join(print(sort()))|
+||[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Symmetric%20Difference) |print(\*sorted( ,key=int),sep='\n')|
 ||[Set .add() ]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
