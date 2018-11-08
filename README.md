@@ -34,7 +34,7 @@
 ||[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Merge%20the%20Tools!)|zip iter sort( , key= )|
 |**Sets**|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Introduction%20to%20Sets)||
 ||[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/No%20Idea!)|sum(( (_ in A) for _ in B)) means count|
-||[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Symmetric%20Difference)|print(\*sorted( ,key=int),sep='\n') or '\n'.join(print(sort()))|
+||[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Symmetric%20Difference) |print(\*sorted( ,key=int),sep='\n') or '\n'.join(print(sort()))|
 ||[Set .add() ]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
