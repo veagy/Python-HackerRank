@@ -1,0 +1,4 @@
+mNum, M = (input(), set(map(int,input().split())))
+nNum, N = (input(), set(map(int,input().split())))
+print(*sorted(M^N, key=int), sep='\n')
+#print('\n'.join(sorted(M^N, key=int))) only for str (delete the map sentence)
