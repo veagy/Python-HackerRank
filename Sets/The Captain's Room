@@ -1,1 +1,5 @@
-
+K = int(input())
+roomNumList = list(map(int, input().split()))
+roomNum = set(roomNumList)
+captainRoomNum = (sum(roomNum)*K - sum(roomNumList))//(K-1)
+print(captainRoomNum)
