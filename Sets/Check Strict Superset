@@ -1,1 +1,10 @@
+A = set(input().split())
+isStrictSuperset = []
+for _ in range(int(input())):
+    isStrictSuperset.append(A.issuperset(set(input().split())))
+print(all(isStrictSuperset))
 
+OR
+
+A = set(input().split())
+print(all(A > set(input().split()) for _ in range(int(input()))))
