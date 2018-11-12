@@ -7,4 +7,15 @@ print(all(isStrictSuperset))
 OR
 
 A = set(input().split())
+N = int(input())
+ans = 'True'
+for _ in range(N):
+    if ans == 'True':
+        B = set(input().split())
+        ans = str(len(B.difference(A)) == 0 and len(A.difference(B)) > 0)
+print(ans)
+
+OR
+
+A = set(input().split())
 print(all(A > set(input().split()) for _ in range(int(input()))))
