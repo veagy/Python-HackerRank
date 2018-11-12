@@ -43,7 +43,7 @@
 ||[Set.symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.symmetric_difference()%20Operation)||
 ||[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set%20Mutations)|getattra & eval|
 ||[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/The%20Captain's%20Room)|Algorithm|
-||[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Check%20Subset)||
+||[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Check%20Subset)|not bool & set algorithm|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
