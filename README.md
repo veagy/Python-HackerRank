@@ -41,6 +41,13 @@
 ||[Set.intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.intersection()%20Operation)||
 ||[Set.difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.difference()%20Operation)||
 ||[Set.symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set.symmetric_difference()%20Operation)||
+||[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set%20Mutations)||
+||[]()|[Python 3]()||
+||[]()|[Python 3]()||
+||[]()|[Python 3]()||
+||[]()|[Python 3]()||
+||[]()|[Python 3]()||
+||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 
