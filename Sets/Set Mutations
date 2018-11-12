@@ -1,1 +1,16 @@
+input()
+A = set(input().split())
+for _ in range(int(input())):
+    cmd, numOtherSet = input().split()
+    otherSet = set(input().split())
+    eval('A.' + cmd + '(otherSet)')
+print(sum(map(int,A)))
 
+OR
+
+input()
+A = set(input().split())
+for _ in range(int(input())):
+    cmd, *args = input().split()
+    getattr(A, cmd)(set(input().split())) 
+print(sum(map(int, A)))
