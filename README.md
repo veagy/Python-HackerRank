@@ -44,7 +44,7 @@
 ||[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Set%20Mutations)|getattra & eval|
 ||[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/The%20Captain's%20Room)|Algorithm|
 ||[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Check%20Subset)|not bool & set algorithm|
-||[]()|[Python 3]()||
+||[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Check%20Strict%20Superset)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
