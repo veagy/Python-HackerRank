@@ -1,1 +1,5 @@
-
+T = int(input())
+for _ in range(T):
+    [ANum, A] = int(input()), set(input().split())
+    [BNum, B] = int(input()), set(input().split())
+    print(not bool(A.difference(B)))
