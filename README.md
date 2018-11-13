@@ -27,7 +27,7 @@
 ||[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/String%20Validators)| any() str.|
 ||[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Text%20Alignment)||
 ||[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Text%20Wrap)|textwrap.wrap or fill|
-||[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Designer%20Door%20Mat)||
+||[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Designer%20Door%20Mat)|.center()|
 ||[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/String%20Formatting)||
 ||[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/Capitalize!)|' '.join .split(' ')|
 ||[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Strings/The%20Minion%20Game)|elif in'AEIOU' print( , )|
