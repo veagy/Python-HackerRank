@@ -45,7 +45,7 @@
 ||[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/The%20Captain's%20Room)|Algorithm|
 ||[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Check%20Subset)|not bool & set algorithm|
 ||[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Sets/Check%20Strict%20Superset)|.issuperset list.append all|
-|**Math**|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Math/Polar%20Coordinates)|[cmath](https://docs.python.org/2/library/cmath.html)|
+|**Math**|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[Python 3](https://github.com/veagy/Python-Rackerrank/blob/master/Math/Polar%20Coordinates)|[cmath](https://docs.python.org/2/library/cmath.html), complex|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
