@@ -56,8 +56,8 @@
 ||[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Shape%20and%20Reshape)|arr.shape(), numpy.reshape(arr, (,))|
 ||[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Transpose%20and%20Flatten)|transpose(), arr.flatten(), np.array([ for range],)|
 ||[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Concatenate)|np.concatenate((), axis = 0)|
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+||[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Zeros%20and%20Ones)|np.zeros(arr or num, dtype = np.int) ones|
+||[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Eye%20and%20Identity)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
