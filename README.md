@@ -49,9 +49,9 @@
 ||[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Math/Find%20Angle%20MBC)|math.atan2/degrees round [Angle Bisector Thm](https://en.wikipedia.org/wiki/Angle_bisector_theorem)|
 ||[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Math/Triangle%20Quest%202)||
 ||[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Math/Mod%20Divmod)|//, %, divmod( , )|
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+||[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Math/Power%20-%20Mod%20Power)|pow(a,b,,) = a^b mod m|
+||[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Math/Integers%20Come%20In%20All%20Sizes)|\\**, pow|
+||[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[Python 3]()|(10**(i)//9)*i|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 
