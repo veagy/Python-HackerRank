@@ -58,8 +58,8 @@
 ||[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Concatenate)|np.concatenate((), axis = 0)|
 ||[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Zeros%20and%20Ones)|np.zeros(arr or num, dtype = np.int) ones|
 ||[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Eye%20and%20Identity)|identity(), eye(,,), np.set_printoptions(sign='')|
-||[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Array%20Mathematics)|+,-,*,/,%,**|
-||[]()|[Python 3]()||
+||[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Array%20Mathematics)|+,-,\*,/,%,\*\*|
+||[Floor, Ceil and Rint]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
