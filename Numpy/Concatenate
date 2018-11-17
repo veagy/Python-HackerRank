@@ -1,1 +1,5 @@
-
+import numpy
+N,M,P = map(int, input().split())
+mat1 = numpy.array([input().split() for _ in range(N)], int)
+mat2 = numpy.array([input().split() for _ in range(M)], int)
+print(numpy.concatenate((mat1,mat2), axis = 0))
