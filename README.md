@@ -54,7 +54,7 @@
 ||[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Math/Triangle%20Quest)|(10** (i)//9) * i|
 |**Numpy**|[Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Arrays)|import numpy as np, np,array(arr[::-1], float)|
 ||[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Shape%20and%20Reshape)|arr.shape(), numpy.reshape(arr, (,))|
-||[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Transpose%20and%20Flatten)|transpose(), arr.flatten(), numpy.array([input() for _ in range()], int)|
+||[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Transpose%20and%20Flatten)|transpose(), arr.flatten(), numpy.array([input for range],int)|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
