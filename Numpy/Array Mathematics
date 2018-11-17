@@ -1,1 +1,6 @@
-
+import numpy
+N,M = map(int, input().split())
+A = numpy.array(input().split(), int)
+B = numpy.array(input().split(), int)
+#print([A+B], [A-B], [A*B], [A/B], [A%B], [A**B], sep = '\n')
+print(*[eval('A'+i+'B') for i in ['+','-','*','//','%','**']], sep='\n')
