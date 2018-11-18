@@ -65,8 +65,8 @@
 ||[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Mean%2C%20Var%2C%20and%20Std)|np.mean,var,std,set_printoptions(legacy='1.13')|
 ||[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Dot%20and%20Cross)|[Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication#Matrix_product_.28two_matrices.29), numpy.dot,cross|
 ||[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Inner%20and%20Outer)|np.inner [Inner product](https://en.wikipedia.org/wiki/Inner_product_space), np.outer [Outer product](https://en.wikipedia.org/wiki/Outer_product)|
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+||[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Polynomials)|poly|
+||[Linear Algebra](https://www.hackerrank.com/challenges/np-polynomials/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Linear%20Algebra)|[numpy.linalg](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
