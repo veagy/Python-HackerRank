@@ -62,7 +62,7 @@
 ||[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Floor%2C%20Ceil%20and%20Rint)|np.floor, np.ceil, np.rint|
 ||[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Sum%20and%20Prod)|np.sum(, axis = 0, 1, none) np.prod(, axis)|
 ||[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Min%20and%20Max)|np.min(, axis= 0,1,none), np.max(, axis)|
-||[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Mean%2C%20Var%2C%20and%20Std)|np.mean,var,std,np.set_printoptions(legacy='1.13')|
+||[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Mean%2C%20Var%2C%20and%20Std)|np.mean,var,std,set_printoptions(legacy='1.13')|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
