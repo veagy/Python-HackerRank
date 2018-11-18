@@ -60,9 +60,9 @@
 ||[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Eye%20and%20Identity)|identity(), eye(,,), np.set_printoptions(sign='')|
 ||[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Array%20Mathematics)|+,-,\*,/,%,\*\*|
 ||[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Floor%2C%20Ceil%20and%20Rint)|np.floor, np.ceil, np.rint|
-||[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Sum%20and%20Prod)|np.sum(, axis = 0 columns, 1 rows, none total) np.prod(, axis)|
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+||[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Sum%20and%20Prod)|np.sum(, axis = 0, 1, none) np.prod(, axis)|
+||[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Min%20and%20Max)|np.min(, axis= 0,1,none), np.max(, axis)|
+||[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Mean%2C%20Var%2C%20and%20Std)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
