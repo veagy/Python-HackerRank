@@ -64,7 +64,7 @@
 ||[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Min%20and%20Max)|np.min(, axis= 0,1,none), np.max(, axis)|
 ||[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Mean%2C%20Var%2C%20and%20Std)|np.mean,var,std,set_printoptions(legacy='1.13')|
 ||[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Dot%20and%20Cross)|[Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication#Matrix_product_.28two_matrices.29), numpy.dot,cross|
-||[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Inner%20and%20Outer)|np.inner,outer [Inner product](https://en.wikipedia.org/wiki/Inner_product_space), [Outer product](https://en.wikipedia.org/wiki/Outer_product)|
+||[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Inner%20and%20Outer)|np.inner [Inner product](https://en.wikipedia.org/wiki/Inner_product_space), np.outer [Outer product](https://en.wikipedia.org/wiki/Outer_product)|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
