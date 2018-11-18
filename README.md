@@ -67,8 +67,8 @@
 ||[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Inner%20and%20Outer)|np.inner [Inner product](https://en.wikipedia.org/wiki/Inner_product_space), np.outer [Outer product](https://en.wikipedia.org/wiki/Outer_product)|
 ||[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Polynomials)|poly|
 ||[Linear Algebra](https://www.hackerrank.com/challenges/np-polynomials/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Linear%20Algebra)|[numpy.linalg](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)|
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+|**Date and Time**|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Date%20and%20Time/Calendar%20Module)|[calendar class](https://docs.python.org/2/library/calendar.html#calendar.TextCalendar)|
+||[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Date%20and%20Time/Time%20Delta)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
