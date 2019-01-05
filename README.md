@@ -69,7 +69,7 @@
 ||[Linear Algebra](https://www.hackerrank.com/challenges/np-polynomials/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Numpy/Linear%20Algebra)|[numpy.linalg](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)|
 |**Date and Time**|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Date%20and%20Time/Calendar%20Module)|[calendar class](https://docs.python.org/2/library/calendar.html#calendar.TextCalendar)|
 ||[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Date%20and%20Time/Time%20Delta)||
-||[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Python%20Functionals/Map%20and%20Lambda%20Function)|lambda, map, fibonacci numbers|
+|**Python Functionals**|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Python%20Functionals/Map%20and%20Lambda%20Function)|lambda, map, fibonacci numbers|
 ||[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Python%20Functionals/Reduce%20Function)|reduce(), gcd, fractions|
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
