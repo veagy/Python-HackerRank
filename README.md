@@ -71,8 +71,8 @@
 ||[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Date%20and%20Time/Time%20Delta)||
 |**Python Functionals**|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Python%20Functionals/Map%20and%20Lambda%20Function)|lambda, map, fibonacci numbers|
 ||[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Python%20Functionals/Reduce%20Function)|reduce(), gcd, fractions|
-||[]()|[Python 3]()||
-||[]()|[Python 3]()||
+|**Itertools**|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Itertools/itertools.product())||
+||[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[Python 3](https://github.com/veagy/Python-HackerRank/blob/master/Itertools/itertools.permutations())||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
